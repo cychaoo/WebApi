@@ -4090,11 +4090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TPI_Maxine\\Projects\\ByMaxine\\WebApiMaxine\\WebApiMaxine\\WebApiMaxine.csproj",
+      "projectUniqueName": "D:\\GitHub\\WebApi\\WebApiMaxine\\WebApiMaxine.csproj",
       "projectName": "WebApiMaxine",
-      "projectPath": "D:\\TPI_Maxine\\Projects\\ByMaxine\\WebApiMaxine\\WebApiMaxine\\WebApiMaxine.csproj",
+      "projectPath": "D:\\GitHub\\WebApi\\WebApiMaxine\\WebApiMaxine.csproj",
       "packagesPath": "C:\\Users\\Maxine\\.nuget\\packages\\",
-      "outputPath": "D:\\TPI_Maxine\\Projects\\ByMaxine\\WebApiMaxine\\WebApiMaxine\\obj\\",
+      "outputPath": "D:\\GitHub\\WebApi\\WebApiMaxine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4115,8 +4115,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\TPI_Maxine\\Projects\\ByMaxine\\WebApiMaxine\\WebApiMaxine.Repository\\WebApiMaxine.Repository.csproj": {
-              "projectPath": "D:\\TPI_Maxine\\Projects\\ByMaxine\\WebApiMaxine\\WebApiMaxine.Repository\\WebApiMaxine.Repository.csproj"
+            "D:\\GitHub\\WebApi\\WebApiMaxine.Repository\\WebApiMaxine.Repository.csproj": {
+              "projectPath": "D:\\GitHub\\WebApi\\WebApiMaxine.Repository\\WebApiMaxine.Repository.csproj"
             }
           }
         }

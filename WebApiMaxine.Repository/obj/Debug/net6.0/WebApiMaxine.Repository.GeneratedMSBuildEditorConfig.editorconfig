@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApiMaxine.Repository
-build_property.ProjectDir = D:\TPI_Maxine\Projects\ByMaxine\WebApiMaxine\WebApiMaxine.Repository\
+build_property.ProjectDir = D:\GitHub\WebApi\WebApiMaxine.Repository\

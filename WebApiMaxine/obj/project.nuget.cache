@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Exaxgks8rmzaYFMST4e9MqN29jVmGv4dGeF/ThZ/IJG4rhuO+C3nYuSu3uuKXCbRqar/I/lbCmuw4Pgyc7QNhQ==",
+  "dgSpecHash": "+4VaudeOxoV/rFJUIyHbA8gckLsdtzCNSFs/cDUaJ9EG9J84nSpS5YH/4jYlNjo8sNGEtQia6sGbq83cYC1qoQ==",
   "success": true,
-  "projectFilePath": "D:\\TPI_Maxine\\Projects\\ByMaxine\\WebApiMaxine\\WebApiMaxine\\WebApiMaxine.csproj",
+  "projectFilePath": "D:\\GitHub\\WebApi\\WebApiMaxine\\WebApiMaxine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maxine\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Maxine\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -48,14 +48,7 @@ builder.Services.AddDbContext<DBContext>(option => option.UseSqlServer(Connectio
 builder.Services.AddTransient<DBContext>();
 
 builder.Services.Configure<RedisConfigDTO>(builder.Configuration.GetSection("Redis"));
-#region 注入 Dependency Injection
-builder.Services.AddScoped<IEmployeeService, EmployeeService>();
-builder.Services.AddScoped<IAccountService, AccountService>();
-builder.Services.AddScoped<IADService, ADService>();
-builder.Services.AddScoped<IJWTService, JWTService>();
-builder.Services.AddSingleton<IRedisManageService, RedisManageService>();
-builder.Services.AddScoped<IX509CertService, X509CertService>();
-#endregion
+builder.Services.AddDiContainer();
 
 #region SimpleCache 圖形驗證碼
 builder.Services.AddMemoryCache()
